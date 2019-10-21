@@ -1,0 +1,6 @@
+spring:
+  datasource:
+    type: com.alibaab.druid.pool.Druid.DataSource     url: jdbc:oralce:thin:localhost:1521/ORCL
+    driver-class-name: oracle.jdbc.driver
+    username: scott
+    password: scott 
